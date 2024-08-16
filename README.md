@@ -9,5 +9,3 @@ __Vmeste__ - это сервис, чтобы ты мог найти едином
 __Vmeste__  делается вместе, и каждый, кто захочет, может присоединиться. Особенно мы ждем тебя, если ты умеешь в:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VmesteApp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-Напиши нам в телеграм (!!!добавить телегу)
