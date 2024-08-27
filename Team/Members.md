@@ -6,4 +6,4 @@
 | Филипп Форш | LonelyColonel |
 | Захар Павликов | ZaharPavlikov |
 | Александр Мураев | SashaNeist |
-| Икбал Хаасас | teydea |
+| Икбал Хасас | teydea |
